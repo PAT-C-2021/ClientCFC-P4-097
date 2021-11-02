@@ -18,7 +18,7 @@ namespace ClientCFC_P4_20190140097
             double hasilTambah = obj.Tambah(1, 2);
             Console.WriteLine("1 + 2 = " + hasilTambah);
             double hasilKurang = obj.Kurang(3, 2);
-            Console.WriteLine("1 - 2 = " + hasilKurang);
+            Console.WriteLine("3 - 2 = " + hasilKurang);
             double hasilKali = obj.Kali(2, 2);
             Console.WriteLine("2 x 2 = " + hasilKali);
             double hasilBagi = obj.Bagi(2, 2);
